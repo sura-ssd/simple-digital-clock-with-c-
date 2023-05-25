@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\clock\clock\bin\Debug\net6.0-windows\clock.exe
+C:\Users\hp\source\repos\clock\clock\bin\Debug\net6.0-windows\clock.deps.json
+C:\Users\hp\source\repos\clock\clock\bin\Debug\net6.0-windows\clock.runtimeconfig.json
+C:\Users\hp\source\repos\clock\clock\bin\Debug\net6.0-windows\clock.dll
+C:\Users\hp\source\repos\clock\clock\bin\Debug\net6.0-windows\clock.pdb
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.Form1.resources
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.AssemblyInfo.cs
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.dll
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\refint\clock.dll
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.pdb
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\clock.genruntimeconfig.cache
+C:\Users\hp\source\repos\clock\clock\obj\Debug\net6.0-windows\ref\clock.dll
